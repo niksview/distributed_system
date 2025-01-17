@@ -1,0 +1,1 @@
+·	It is an distribution system model that retrieves data from several sources using the same database and arranges it in an organized manner. These include three data information tables: user data, product details data, and amount ordered by the user. Django, Python, JSON, and SQLite were utilized in this project.# distributed_system
